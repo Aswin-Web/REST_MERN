@@ -1,0 +1,33 @@
+body{
+    text-decoration-color: aqua ;
+}
+.buttons{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+.addUser{
+    text-align: center;
+    margin-bottom: 2%;
+}
+.Forms{
+    margin:5%;
+    width:50%;
+    
+}
+.Forms Button{
+    margin: 2%;
+}
+.Forms h1{
+    text-align: center;
+}
+.aboveForm{
+   display: flex;
+   justify-content: center;
+}
